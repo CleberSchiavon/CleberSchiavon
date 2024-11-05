@@ -2,7 +2,7 @@
   Hey, how are you? 👋
 </h3>
 <p align="center">
-  <a href="https://github.com/CleberSchiavon"><img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=8938F7FF&center=true&vCenter=true&lines=Welcome+to+my+Github+profile;I'm+Cleber Henrique;I'm+a+Full-Stack+Developer" /></a>
+  I'm Cleber Henrique, Full-stack Developer with a focus on Front-End based in Belo Horizonte, Minas Gerais, Brazil
 </p>
 
 
